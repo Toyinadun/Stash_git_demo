@@ -2,8 +2,15 @@
 ettfgffhdsjkdhdgdhdjdksdhsbgsdhdjdjkd
 sgssghsdjsdjdsdksksjksdbvxdjhwjwsbgdg
 
-### Dec 2 code changes ###
+<<<<<<< Updated upstream
+## Dec 2 code changes ##
 sydgdgdhdkcdjhdjkdjdbsdhsjksjsbdjssknhd
 sdgdbddnhjsjsdndkdnhdjnndbnjsjksjsdbbndnjjd
 shsdgdsgsghshdhdghysshsjhjhdsghdbbdhsjhjsuis
 dhdbbsdshssjsjdbdbhhsdhsdbsdbjsdhjhshsbnxdbdb
+=======
+### Dev 1 code changes ###
+ccvvcbncnmxbxnxnxbvchdhsdjx xc dh
+csvsbxbgdhxbxdjhbndbdbdh x cbhbnx sd
+ncncjxdjddjdjdcbvduwjwhweb scbnnhddj
+>>>>>>> Stashed changes
